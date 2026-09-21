@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+    direction: rtl;
+}
+
+body {
+    background: #050816;
+    color: white;
+}
