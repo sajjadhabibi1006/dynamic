@@ -26,20 +26,50 @@
         "
       >
 
+              <div class="text-right lg:order-2">
+
+  <h2
+    class="
+      text-3xl
+      md:text-4xl
+      font-black
+      mt-4
+      leading-[1.6]
+    "
+  >
+    دیزل ژنراتور و موتورهای برق صنعتی
+  </h2>
+
+  <h3
+    class="
+      text-blue-500
+      text-xl
+      font-bold
+      mt-1
+    "
+  >
+    عیب‌یابی، سرویس دوره‌ای و اورهال کامل دیزل ژنراتور
+  </h3>
+
+  <p
+    class="
+      text-gray-300
+      mt-5
+      leading-9
+      text-lg
+    "
+  >
+    ارائه خدمات تخصصی مکانیکی و عیب‌یابی انواع
+    دیزل ژنراتورها و موتورهای برق صنعتی سنگین و
+    نیمه‌سنگین
+    (Caterpillar, Cummins, Perkins, Volvo Penta و ...).
+  </p>
+
+</div>
 
         <!-- Text -->
 
-        <div
-            class="
-          text-right
-          lg:order-2
-          "
-        >
-
-
-
-
-
+        <div class=" text-right lg:order-2 ">
 
 
         <!-- Services Card -->
@@ -81,57 +111,62 @@
           >
 
 
-            <li class="flex gap-3 justify-end items-start">
+            <li class="flex gap-3 items-start">
+
+              <span class="text-blue-500">
+                ✓
+              </span>
 
               <span>
                 تعویض قطعات مصرفی، فیلتراسیون و تنظیم فیلرها
               </span>
 
-              <span class="text-blue-500">
-                ✓
-              </span>
+
 
             </li>
 
 
 
-            <li class="flex gap-3 justify-end items-start">
+            <li class="flex gap-3 items-start">
+
+               <span class="text-blue-500">
+                ✓
+              </span>
 
               <span>
                 تعمیر اساسی (اورهال) موتور، سرسیلندر و سیستم سوخت‌رسانی
               </span>
 
-              <span class="text-blue-500">
-                ✓
-              </span>
 
             </li>
 
 
 
-            <li class="flex gap-3 justify-end items-start">
+            <li class="flex gap-3 items-start">
+
+                <span class="text-blue-500">
+                ✓
+              </span>
 
               <span>
                 رفع مشکل افت فشار روغن، داغ کردن موتور و لرزش‌های غیرعادی
               </span>
 
-              <span class="text-blue-500">
-                ✓
-              </span>
-
             </li>
 
 
 
-            <li class="flex gap-3 justify-end items-start">
+            <li class="flex gap-3 items-start">
+
+              <span class="text-blue-500">
+                ✓
+              </span>
 
               <span>
                 اعزام فوری تیم عیب‌یابی در صورت قطعی یا خرابی اضطراری ژنراتور
               </span>
 
-              <span class="text-blue-500">
-                ✓
-              </span>
+       
 
             </li>
 
@@ -141,64 +176,48 @@
 
         </div>
 
-
       </div>
 
-        <h2
-            class="
-            text-3xl
-            md:text-4xl
-            font-black
-            mt-4
-            leading-[1.6]
-            "
-        >
-
-          دیزل ژنراتور و موتورهای برق صنعتی
-
-        </h2>
-
-
-        <h3
-            class="
-            text-blue-500
-            text-xl
-            font-bold
-            mt-6
-            "
-        >
-
-          عیب‌یابی، سرویس دوره‌ای و اورهال کامل دیزل ژنراتور
-
-        </h3>
-
-
-
-        <p
-            class="
-            text-gray-300
-            mt-5
-            leading-9
-            text-lg
-            "
-        >
-
-          ارائه خدمات تخصصی مکانیکی و عیب‌یابی انواع
-          دیزل ژنراتورها و موتورهای برق صنعتی سنگین و
-          نیمه‌سنگین
-          (Caterpillar, Cummins, Perkins, Volvo Penta و ...).
-
-        </p>
-
-
-
       </div>
-
-
-
 
     </div>
 
+    <br>
+
+    <!-- Images Row -->
+<div
+  class="
+    mt-10
+    grid
+    grid-cols-2
+    md:grid-cols-4
+    gap-4
+  "
+>
+  <img
+    src="/images/diesel/diesel1.png"
+    alt="دیزل ژنراتور"
+    class="w-full h-60 object-cover rounded-2xl"
+  />
+
+  <img
+    src="/images/diesel/diesel2.png"
+    alt="موتور دیزل"
+    class="w-full h-60 object-cover rounded-2xl"
+  />
+
+  <img
+    src="/images/diesel/diesel3.png"
+    alt="تعمیر دیزل ژنراتور"
+    class="w-full h-60 object-cover rounded-2xl"
+  />
+
+  <img
+    src="/images/diesel/diesel4.png"
+    alt="سرویس دیزل ژنراتور"
+    class="w-full h-60 object-cover rounded-2xl"
+  />
+</div>
 
   </section>
 </template>

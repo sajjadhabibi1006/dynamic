@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import Diesel from "~/pages/diesel.vue";
 </script>
 <template>
   <div>
@@ -7,17 +6,6 @@ import Diesel from "~/pages/diesel.vue";
     <Header />
 
     <main>
-
-      <diesel/>
-      <section>
-        <!-- همان کدهای اسلایدی که نوشتی -->
-      </section>
-
-
-      <!-- بخش دپارتمان -->
-      <DieselDepartment />
-
-
     </main>
 
     <NuxtPage />

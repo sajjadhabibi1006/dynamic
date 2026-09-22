@@ -11,8 +11,8 @@
     <div class="absolute inset-0">
 
       <img
-          src="/images/diesel.png"
-          alt="Diesel Generator"
+          src="/images/diesel/diesel.png"
+          alt="دیزل و ژنراتور"
           class="
         w-full
         h-full
@@ -196,6 +196,8 @@
       ↓
     </div>
 
-
   </section>
+
+  <DieselDepartment />
+
 </template>

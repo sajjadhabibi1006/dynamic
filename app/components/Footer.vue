@@ -28,35 +28,31 @@
 
 
         <!-- Brand -->
-        <div>
-
-          <h2
+                  <div class="flex items-center">
+                  
+            <!-- Logo -->
+            <div class="relative w-20 h-14 shrink-0">
+              <img
+                src="/images/logo.png"
+                alt="دینامیک"
+                class="absolute w-20 h-30 max-w-none object-contain top-1/2 right-0 -translate-y-1/2"
+              >
+            </div>
+          
+            <!-- Title -->
+            <h2
               class="
-            text-2xl
-            font-black
-            text-white
-            mb-5
-            "
-          >
-            دینامیک
-          </h2>
-
-
-          <p
-              class="
-            text-gray-400
-            leading-8
-            text-sm
-            "
-          >
-            ارائه خدمات تخصصی تعمیرات صنعتی،
-            پشتیبانی تجهیزات و راهکارهای نوین
-            با تیمی مجرب و متخصص.
-          </p>
-
-
-        </div>
-
+                text-2xl
+                font-black
+                text-white
+                mb-0
+                mr-3
+              "
+            >
+              دینامیک
+            </h2>
+          
+          </div>
 
 
         <!-- Links -->
@@ -178,18 +174,34 @@
             "
           >
 
-            <li>
+          <li>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Tehran%2C%20Iran"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="hover:text-blue-500 transition-colors mr-1"
+            >
               📍 تهران، ایران
-            </li>
+            </a>
+          </li>
+
+           <li>
+          <a
+            href="tel:02112345678"
+            class="hover:text-blue-500 transition-colors"
+          >
+            📞 021-12345678
+          </a>
+        </li>
 
             <li>
-              📞 021-12345678
-            </li>
-
-            <li>
-              ✉ info@example.com
-            </li>
-
+          <a
+            href="mailto:info@example.com"
+            class="hover:text-blue-500 transition-colors"
+          >
+            ✉ info@example.com
+          </a>
+        </li>
 
           </ul>
 
@@ -218,7 +230,7 @@
       "
     >
 
-      © 2026 تمامی حقوق محفوظ است | طراحی و توسعه توسط تیم دینامیک
+      © 2026 تمامی حقوق محفوظ است | طراحی و توسعه توسط تیم xdgweb
 
     </div>
 
