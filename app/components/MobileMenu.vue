@@ -5,7 +5,7 @@ const isMenuOpen = ref(false)
 </script>
 
 <template>
-  <div class="relative ml-auto md:hidden">
+  <div class="mr-20 relative ml-auto md:hidden">
 
     <!-- دکمه همبرگری -->
     <button
@@ -50,34 +50,34 @@ const isMenuOpen = ref(false)
             </NuxtLink>
           </li>
 
-          <li>
-            <NuxtLink to="/about" @click="isMenuOpen = false">
+         <li class="hover:text-blue-400">
+            <a href="qutein">
+              بررسی و کیوتین
+            </a>
+          </li>
+
+          <li class="hover:text-blue-400">
+            <a href="mechanical-facilities">
+            تاسیسات مکانیکی
+            </a>
+          </li>
+
+          <li class="hover:text-blue-400">
+            <a href="construction-machinery">
+             ماشین آلات کشاورزی
+            </a>
+          </li>
+
+          <li class="hover:text-blue-400">
+            <a href="#about">
               درباره ما
-            </NuxtLink>
+            </a>
           </li>
 
-          <li>
-            <NuxtLink to="/diesel-generator" @click="isMenuOpen = false">
-              دیزل ژنراتور
-            </NuxtLink>
-          </li>
-
-          <li>
-            <NuxtLink to="/construction-machinery" @click="isMenuOpen = false">
-              ماشین آلات ساختمانی
-            </NuxtLink>
-          </li>
-
-          <li>
-            <NuxtLink to="/mechanical-facilities" @click="isMenuOpen = false">
-              تأسیسات مکانیکی
-            </NuxtLink>
-          </li>
-
-          <li>
-            <NuxtLink to="/contact" @click="isMenuOpen = false">
+          <li class="hover:text-blue-400">
+            <a href="#contact">
               تماس با ما
-            </NuxtLink>
+            </a>
           </li>
 
         </ul>

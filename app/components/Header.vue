@@ -4,6 +4,7 @@
   <header
       class="fixed top-0 w-full z-50 bg-black/20 backdrop-blur-md relative"
   >
+
     <div
         class="container mx-auto px-6 py-5"
     >
@@ -18,11 +19,13 @@
 
   <!-- Logo -->
   <div class="relative w-14 h-14 shrink-0">
+    <a href="http://localhost:3000">
     <img
       src="/images/logo.png"
       alt="دینامیک"
       class="absolute w-20 h-30 max-w-none object-contain top-1/2 right-0 -translate-y-1/2"
     >
+    </a>
   </div>
 
   <!-- Text -->

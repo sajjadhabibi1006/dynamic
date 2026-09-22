@@ -190,29 +190,31 @@
     gap-4
   "
 >
-  <img
-    src="/images/construction-facilities/construction-facilities1.png"
-    alt="دیزل ژنراتور"
-    class="w-full h-60 object-cover rounded-2xl"
-  />
+<ImageSlider
+  :images="[
+    {
+      src: '/images/construction-facilities/construction-facilities1.png',
+      alt: 'تصویر ۱'
+    },
+    {
+      src: '/images/construction-facilities/construction-facilities2.png',
+      alt: 'تصویر ۲'
+    },
+    {
+      src: '/images/construction-facilities/construction-facilities3.png',
+      alt: 'تصویر ۳'
+    },
+    {
+      src: '/images/construction-facilities/construction-facilities4.png',
+      alt: 'تصویر ۴'
+    },
+    {
+      src: '/images/construction-facilities/construction-facilities5.png',
+      alt: 'تصویر ۵'
+    }
+  ]"
+/>
 
-  <img
-    src="/images/construction-facilities/construction-facilities2.png"
-    alt="موتور دیزل"
-    class="w-full h-60 object-cover rounded-2xl"
-  />
-
-  <img
-    src="/images/construction-facilities/construction-facilities3.png"
-    alt="تعمیر دیزل ژنراتور"
-    class="w-full h-60 object-cover rounded-2xl"
-  />
-
-  <img
-    src="/images/construction-facilities/construction-facilities4.png"
-    alt="سرویس دیزل ژنراتور"
-    class="w-full h-60 object-cover rounded-2xl"
-  />
 </div>
 
   </section>

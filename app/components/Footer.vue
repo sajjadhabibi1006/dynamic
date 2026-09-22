@@ -32,11 +32,13 @@
                   
             <!-- Logo -->
             <div class="relative w-20 h-14 shrink-0">
+              <a href="#">
               <img
                 src="/images/logo.png"
                 alt="دینامیک"
                 class="absolute w-20 h-30 max-w-none object-contain top-1/2 right-0 -translate-y-1/2"
               >
+              </a>
             </div>
           
             <!-- Title -->
