@@ -50,6 +50,13 @@ const isMenuOpen = ref(false)
             </NuxtLink>
           </li>
 
+          <li class="hover:text-blue-400">
+            <a href="diesel">
+             دیزل و ژنراتور
+            </a>
+          </li>
+
+
          <li class="hover:text-blue-400">
             <a href="qutein">
               بررسی و کیوتین
@@ -69,13 +76,13 @@ const isMenuOpen = ref(false)
           </li>
 
           <li class="hover:text-blue-400">
-            <a href="#about">
+            <a href="about-us">
               درباره ما
             </a>
           </li>
 
           <li class="hover:text-blue-400">
-            <a href="#contact">
+            <a href="contact-us">
               تماس با ما
             </a>
           </li>

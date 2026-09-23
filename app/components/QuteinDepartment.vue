@@ -182,7 +182,7 @@
     <!-- Images Row -->
 <div
   class="
-    mt-10
+    mt-10 mr-5 ml-5
     grid
     grid-cols-2
     md:grid-cols-4

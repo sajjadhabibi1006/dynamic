@@ -85,19 +85,19 @@
             </li>
 
             <li>
-              <a href="#services" class="hover:text-blue-500 transition">
+              <a href="#" class="hover:text-blue-500 transition">
                 خدمات
               </a>
             </li>
 
             <li>
-              <a href="#about" class="hover:text-blue-500 transition">
+              <a href="about-us" class="hover:text-blue-500 transition">
                 درباره ما
               </a>
             </li>
 
             <li>
-              <a href="#contact" class="hover:text-blue-500 transition">
+              <a href="contact-us" class="hover:text-blue-500 transition">
                 تماس با ما
               </a>
             </li>
@@ -181,27 +181,27 @@
               href="https://www.google.com/maps/search/?api=1&query=Tehran%2C%20Iran"
               target="_blank"
               rel="noopener noreferrer"
-              class="hover:text-blue-500 transition-colors mr-1"
+              class="hover:text-blue-500 transition-colors"
             >
-              📍 تهران، ایران
+              📍 مشهد-بزرگراه پیامبر اعظم- شهرک صنعتی توس
             </a>
           </li>
 
            <li>
           <a
-            href="tel:02112345678"
+            href="tel:۰۹۳۹۸۷۳۳۹۱۳"
             class="hover:text-blue-500 transition-colors"
           >
-            📞 021-12345678
+            📞 09398733913
           </a>
         </li>
 
             <li>
           <a
-            href="mailto:info@example.com"
+            href="mailto:ghasemimostafa037@gmail.com"
             class="hover:text-blue-500 transition-colors"
           >
-            ✉ info@example.com
+            ✉ ghasemimostafa037@gmail.com
           </a>
         </li>
 

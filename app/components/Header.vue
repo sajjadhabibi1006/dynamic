@@ -77,13 +77,13 @@
           </li>
 
           <li class="hover:text-blue-400">
-            <a href="#about">
+            <a href="about-us">
               درباره ما
             </a>
           </li>
 
           <li class="hover:text-blue-400">
-            <a href="#contact">
+            <a href="contact-us">
               تماس با ما
             </a>
           </li>
