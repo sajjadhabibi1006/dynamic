@@ -47,7 +47,7 @@
             class="hidden md:flex items-center gap-8 text-gray-300"
         >
           <li class="hover:text-blue-400">
-            <a href="http://localhost:3000/">
+            <a href="/">
               صفحه اصلی
             </a>
           </li>

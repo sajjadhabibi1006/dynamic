@@ -47,7 +47,7 @@
           <div class="flex gap-4 justify-start">
 
             <a
-                href="#contact"
+                href="contact-us"
                 class="bg-blue-600 hover:bg-blue-700 transition px-8 py-4 rounded-xl"
             >
               تماس با ما
@@ -55,7 +55,7 @@
 
 
             <a
-                href="#services"
+                href="#"
                 class="border border-white/20 hover:bg-white/10 transition px-8 py-4 rounded-xl"
             >
               خدمات ما
