@@ -116,7 +116,7 @@ leading-[1.6]
           >
 
             <a
-                href="#contact"
+                href="contact-us"
                 class="
               bg-blue-600
               hover:bg-blue-700
