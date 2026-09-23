@@ -19,7 +19,7 @@
 
   <!-- Logo -->
   <div class="relative w-14 h-14 shrink-0">
-    <a href="http://localhost:3000">
+    <a href="/">
     <img
       src="/images/logo.png"
       alt="دینامیک"
