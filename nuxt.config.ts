@@ -2,6 +2,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-04-01',
+
   ssr: true,
 
   css: [
@@ -12,5 +13,11 @@ export default defineNuxtConfig({
     plugins: [
       tailwindcss()
     ]
+  },
+
+  modules: ['@nuxtjs/sitemap'],
+
+  site: {
+    url: 'https://dynamicsanat.ir'
   }
 })
