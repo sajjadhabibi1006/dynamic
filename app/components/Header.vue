@@ -65,13 +65,19 @@
           </li>
 
           <li class="hover:text-blue-400">
-            <a href="mechanical-facilities">
+            <a href="mechanical-systems">
             تاسیسات مکانیکی
             </a>
           </li>
 
           <li class="hover:text-blue-400">
             <a href="construction-machinery">
+             ماشین آلات ساختمانی
+            </a>
+          </li>
+
+            <li class="hover:text-blue-400">
+            <a href="agricultural-machinery">
              ماشین آلات کشاورزی
             </a>
           </li>

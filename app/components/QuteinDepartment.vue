@@ -212,6 +212,28 @@
     alt="سرویس دیزل ژنراتور"
     class="w-full h-60 object-cover rounded-2xl"
   />
+
+</div>
+
+<br><br><br>
+
+<div class="text-center mb-10">
+  <h2 class="text-2xl md:text-3xl font-bold text-white">
+    نمونه‌کارهای ما
+  </h2>
+  <p class="mt-3 text-gray-400 text-sm md:text-base mr-5 ml-5">
+    گوشه‌ای از پروژه‌ها و خدمات انجام‌شده توسط تیم مهندسی تعمیرات صنعتی دینامیک
+  </p>
+</div>
+
+<div class="flex justify-center">
+  <video
+    src="/videos/video-qutien.mp4"
+
+    controls
+    preload="metadata"
+    class="w-150 max-w-3xl h-120 object-cover rounded-2xl mr-10 ml-10"
+  ></video>
 </div>
 
   </section>
