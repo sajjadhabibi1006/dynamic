@@ -76,7 +76,7 @@
             py-2
             rounded-full
             bg-blue-500/10
-            text-blue-400
+            text-gray-200
             text-sm
             "
           >
@@ -98,7 +98,7 @@
          تاسیسات مکانیکی صنعتی 
 
             <span
-                class="text-blue-500"
+                class="text-gray-200"
             >
            پمپ، مشعل، اگزاست
             </span>

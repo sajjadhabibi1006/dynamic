@@ -75,7 +75,7 @@
             py-2
             rounded-full
             bg-blue-500/10
-            text-blue-400
+            text-gray-200
             text-sm
             "
           >
@@ -97,7 +97,7 @@
            ماشین‌آلات فرمینگ، 
 
             <span
-                class="text-blue-500"
+                class="text-gray-200"
             >
              پرس، نورد و گیوتین
             </span>
@@ -132,7 +132,7 @@
           >
 
             <a
-                href="#contact"
+                href="contact-us"
                 class="
               bg-blue-600
               hover:bg-blue-700
@@ -149,7 +149,7 @@
 
 
             <a
-                href="#services"
+                href="#"
                 class="
               border
               border-white/20

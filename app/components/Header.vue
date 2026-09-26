@@ -60,7 +60,7 @@
 
           <li class="hover:text-blue-400">
             <a href="qutein">
-              بررسی و کیوتین
+             پِرس و گیوتین 
             </a>
           </li>
 

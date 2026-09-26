@@ -36,12 +36,12 @@
               <img
                 src="/images/logo.png"
                 alt="دینامیک"
-                class="absolute w-20 h-30 max-w-none object-contain top-1/2 right-0 -translate-y-1/2"
+                class="absolute w-23 h-30 max-w-none object-contain top-1/2 right-0 -translate-y-1/2"
               >
               </a>
             </div>
           
-            <!-- Title -->
+            <!-- Title
             <h2
               class="
                 text-2xl
@@ -52,7 +52,7 @@
               "
             >
               دینامیک
-            </h2>
+            </h2> -->
           
           </div>
 
@@ -79,7 +79,7 @@
           >
 
             <li>
-              <a href="#" class="hover:text-blue-500 transition">
+              <a href="/" class="hover:text-blue-500 transition">
                 خانه
               </a>
             </li>

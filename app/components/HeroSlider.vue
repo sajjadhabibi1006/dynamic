@@ -61,7 +61,7 @@ to-transparent
             py-2
             rounded-full
             bg-blue-500/20
-            text-blue-400
+            text-gray-200
             text-sm
             "
           >
@@ -82,7 +82,7 @@ leading-[1.6]
 
             {{ slides[current].title }}
 
-            <span class="text-blue-500">
+            <span class="text-gray-200">
               {{ slides[current].highlight }}
             </span>
 

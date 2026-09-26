@@ -19,7 +19,7 @@
         <div class="text-right">
 
           <span
-              class="inline-block mb-5 px-4 py-2 rounded-full bg-blue-500/10 text-blue-400 text-sm"
+              class="inline-block mb-5 px-4 py-2 rounded-full bg-blue-500/10 text-gray-100 text-sm"
           >
             راهکارهای تخصصی صنعتی
           </span>

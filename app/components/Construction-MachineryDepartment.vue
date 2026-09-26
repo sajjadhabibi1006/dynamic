@@ -42,7 +42,7 @@
 
   <h3
     class="
-      text-blue-500
+     text-gray-200
       text-xl
       font-bold
       mt-1
