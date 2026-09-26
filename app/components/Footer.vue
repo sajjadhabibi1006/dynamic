@@ -32,7 +32,7 @@
                   
             <!-- Logo -->
             <div class="relative w-20 h-14 shrink-0">
-              <a href="#">
+              <a href="/">
               <img
                 src="/images/logo.png"
                 alt="دینامیک"

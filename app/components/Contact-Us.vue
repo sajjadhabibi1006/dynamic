@@ -222,7 +222,7 @@ const contacts = [
       'https://t.me/MostafaGhasemi1371',
 
     icon:
-      '/icons/telegram.svg',
+      '/social-icons/telegram.svg',
 
     hoverClass:
       'hover:shadow-[0_20px_60px_rgba(34,158,217,0.20)]',
@@ -251,7 +251,7 @@ const contacts = [
       'https://wa.me/MostafaGhasemi1371',
 
     icon:
-      '/icons/whatsapp.svg',
+      '/social-icons/whatsapp.svg',
 
     hoverClass:
       'hover:shadow-[0_20px_60px_rgba(37,211,102,0.20)]',
@@ -280,7 +280,7 @@ const contacts = [
       'https://rubika.ir/MostafaGhasemi1371',
 
     icon:
-      '/icons/rubika.svg',
+      '/social-icons/rubika.svg',
 
     hoverClass:
       'hover:shadow-[0_20px_60px_rgba(168,85,247,0.25)]',
