@@ -176,15 +176,9 @@
             "
           >
 
-          <li>
-            <a
-              href="https://www.google.com/maps/search/?api=1&query=Tehran%2C%20Iran"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="hover:text-blue-500 transition-colors"
-            >
+          <li class="mr-0.5">
               📍 مشهد-بزرگراه پیامبر اعظم- شهرک صنعتی توس
-            </a>
+
           </li>
 
            <li>
